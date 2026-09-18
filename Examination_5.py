@@ -8,3 +8,10 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 speed = int(input())
+
+speed : int <= 60 
+  print : ("Normal")
+speed : int >= 61
+  print : ("Fast")
+speed : int> 90
+ print : ("Too Fast")
