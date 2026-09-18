@@ -8,3 +8,11 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 price = int(input())
+
+int > = 2000
+    print = (price-200(""))
+int > = 1000 
+    print = (price-100(""))
+int < 1000
+    print = (price(""))
+
