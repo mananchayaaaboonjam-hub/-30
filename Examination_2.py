@@ -7,3 +7,8 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 age = int(input())
+
+age >= 18
+    print ("Eligible")
+age <= 18
+    print ("Not Eligible")
